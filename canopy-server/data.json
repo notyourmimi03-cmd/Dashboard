@@ -1,32 +1,17 @@
 {
   "facebook": {
-    "followers": 275,
-    "reach": 1140,
-    "likes": 20,
-    "views": 200,
-    "followerViews": 140,
-    "nonFollowerViews": 60,
+    "followers": 625,
+    "reach": 439,
+    "likes": 0,
+    "views": 280,
+    "followerViews": 104,
+    "nonFollowerViews": 176,
     "history": [
       {
         "week": "W1",
-        "followers": 11700
-      },
-      {
-        "week": "W2",
-        "followers": 11950
-      },
-      {
-        "week": "W3",
-        "followers": 12180
-      },
-      {
-        "week": "W4",
-        "followers": 12500
-      },
-      {
-        "week": "W5",
-        "followers": 275
+        "followers": 625
       }
+      
     ],
     "media": []
   },
@@ -40,113 +25,57 @@
     "history": [
       {
         "week": "W1",
-        "followers": 22100
-      },
-      {
-        "week": "W2",
-        "followers": 22950
-      },
-      {
-        "week": "W3",
-        "followers": 23800
-      },
-      {
-        "week": "W4",
-        "followers": 24800
-      },
-      {
-        "week": "W5",
-        "followers": 34
-      },
-      {
-        "week": "W6",
-        "followers": 34
-      },
-      {
-        "week": "W7",
         "followers": 34
       }
+      
     ],
     "media": []
   },
   "linkedin": {
-    "followers": 8300,
-    "reach": 21400,
-    "likes": 1540,
-    "views": 9800,
-    "followerViews": 7100,
-    "nonFollowerViews": 2700,
+    "followers": 224,
+    "reach": 78,
+    "likes": 0,
+    "views": 245,
+    "followerViews": 0,
+    "nonFollowerViews": 0,
     "history": [
       {
         "week": "W1",
-        "followers": 7950
-      },
-      {
-        "week": "W2",
-        "followers": 8050
-      },
-      {
-        "week": "W3",
-        "followers": 8120
-      },
-      {
-        "week": "W4",
-        "followers": 8300
+        "followers": 224
       }
+      
     ],
     "media": []
   },
   "youtube": {
-    "followers": 15600,
-    "reach": 61200,
-    "likes": 4210,
-    "views": 88500,
-    "followerViews": 61000,
-    "nonFollowerViews": 27500,
+    "followers": 512,
+    "reach": 0,
+    "likes": 1,
+    "views": 287,
+    "followerViews": 0,
+    "nonFollowerViews": 0,
     "history": [
       {
         "week": "W1",
         "followers": 15200
-      },
-      {
-        "week": "W2",
-        "followers": 15350
-      },
-      {
-        "week": "W3",
-        "followers": 15400
-      },
-      {
-        "week": "W4",
-        "followers": 15600
       }
+      
     ],
     "media": []
   },
   "pinterest": {
-    "followers": 5200,
-    "reach": 18400,
-    "likes": 2100,
-    "views": 31000,
-    "followerViews": 9800,
-    "nonFollowerViews": 21200,
+    "followers": 3,
+    "reach": 0,
+    "likes": 0,
+    "views": 0,
+    "followerViews": 0,
+    "nonFollowerViews": 0,
     "history": [
       {
         "week": "W1",
-        "followers": 4800
-      },
-      {
-        "week": "W2",
-        "followers": 4950
-      },
-      {
-        "week": "W3",
-        "followers": 5100
-      },
-      {
-        "week": "W4",
-        "followers": 5200
+        "followers": 3
       }
+      
     ],
     "media": []
   }
